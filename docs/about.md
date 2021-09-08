@@ -1,9 +1,9 @@
 ### About Page ###
 
 You could find more about our project there
-- Sample
-- How to guide
-- Platform Documentation
+-   Sample
+-   How to guide
+-   Platform Documentation
 
 -   Red
 -   Green
