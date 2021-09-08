@@ -1,3 +1,5 @@
+site_name: RTD Playground
+docs_dir: docs
 pages:
   - 'index.md'
   - 'about.md'
