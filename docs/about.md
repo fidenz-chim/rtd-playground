@@ -1,4 +1,4 @@
-### About Page ###
+# About Page #
 
 You could find more about our project there
 
@@ -26,3 +26,5 @@ And it is *important to say* what matters !
 ```
 let x = (y+2>10) ? A : B
 ```
+
+## Images section ##
