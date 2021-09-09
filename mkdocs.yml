@@ -1,5 +1,8 @@
 site_name: RTD Playground
+theme:
+    name: readthedocs
 docs_dir: docs
 pages:
   - 'index.md'
+  - 'apidocumentation.md'
   - 'about.md'
