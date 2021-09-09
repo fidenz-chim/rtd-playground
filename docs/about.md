@@ -1,4 +1,4 @@
-# About Page #
+# About Page
 
 You could find more about our project there
 
